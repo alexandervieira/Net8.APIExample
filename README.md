@@ -8,7 +8,7 @@
 
 Consulte o meu perfil <a href="https://github.com/alexandervieira/alexandervieira/blob/master/README.md">aqui</a>.
 
-<h1 align="center" style="font-weight: bold;">Net8.APIExample 💻</h1>
+<h1 align="center" style="font-weight: bold;">Design Partterns 💻</h1>
 
 ## Índice
 
@@ -25,8 +25,7 @@ Consulte o meu perfil <a href="https://github.com/alexandervieira/alexandervieir
 ## Começo rápido
 
 <p align="center" style="font-weight: bold;">
-    <!--<img alt="FrontEnd" src="https://user-images.githubusercontent.com/5068797/164293734-a72fbeeb-0965-4413-a624-29e1c56c25df.png" />-->
-    Imagem Front-End aqui
+    <img alt="End Points" src="https://github.com/alexandervieira/Net8.APIExample/blob/master/images/endpoints-apiexample.png" />   
 </p>
 
 ## Descrição
@@ -90,7 +89,7 @@ Consulte <a href="https://github.com/alexandervieira/repositorio-base/blob/maste
 ### Toda a aplicação é baseada em uma solução única com X API's
 
 <p align="center">
-    <img alt="read before" src="https://user-images.githubusercontent.com/5068797/161202409-edcf2f38-0714-4de5-927d-1a02be4501ec.png" />
+    <img alt="Arquitetura" src="https://github.com/alexandervieira/Net8.APIExample/blob/master/images/solution-apiexample.png" />
 </p>
 
 ## Erros e solicitações de recursos
