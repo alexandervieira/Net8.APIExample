@@ -8,7 +8,7 @@
 
 Consulte o meu perfil <a href="https://github.com/alexandervieira/alexandervieira/blob/master/README.md">aqui</a>.
 
-<h1 align="center" style="font-weight: bold;">Meu Projeto 💻</h1>
+<h1 align="center" style="font-weight: bold;">Net8.APIExample 💻</h1>
 
 ## Índice
 
@@ -31,7 +31,7 @@ Consulte o meu perfil <a href="https://github.com/alexandervieira/alexandervieir
 
 ## Descrição
 
-- Descreva seu projeto aqui
+- Exemplos de uso de padrões de projeto: Abstract Factory + .NET 8 + ASP.NET Core em APIs REST. Esta aplicação demonstra a implementação do mecanismo para troca de bando de dados como: SQL Server, PostgreSQL, MySQL, Oracle e SQLite.
 
 ## Lista de comandos úteis do GIT
 
@@ -56,65 +56,38 @@ Consulte <a href="https://github.com/alexandervieira/repositorio-base/blob/maste
 [CSHARP_BADGE]:https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
 [SWAGGER_BADGE]:https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
 [SQLSERVER_BADGE]:https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[MySQL]:https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
+[Postgres]:https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[SQLite]:https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 
 ![.Net][DOTNET_BADGE]
 ![C#][CSHARP_BADGE]
-![Azure][AZURE_BADGE]
 ![Swagger][SWAGGER_BADGE]
 ![MicrosoftSQLServer][SQLSERVER_BADGE]
+![MySQL][MySQL]
+![Postgres][Postgres]
+![SQLite][SQLite]
 
-- .NET 6
-    - ASP.NET MVC Core
+- .NET 8    
     - ASP.NET WebApi
-    - ASP.NET Minimal API
-    - ASP.NET Identity Core
-    - Refresh Token
-    - JWT with rotactive public / private key    
-    - GRPC
-    - Background Services
-    - Entity Framework Core 6
+    - ASP.NET Minimal API    
+    - Entity Framework Core 8
 
-- Components / Services
-    - RabbitMQ
-    - EasyNetQ
-    - Refit 
-    - Polly
-    - Bogus
-    - Dapper
-    - FluentValidator
-    - MediatR
-    - Swagger UI with JWT support
-    - NetDevPack
-    - NetDevPack.Identity
-    - NetDevPack.Security.JWT
-
+- Components / Services    
+    - Swagger UI with JWT support   
+      
 - Hosting
-    - IIS
-    - NGINX
+    - IIS   
     - Docker (with compose)
 
 ## Arquitetura
-
-### Arquitetura completa implementando as preocupações mais importantes:
-
-- Hexagonal Architecture
-- Clean Code
-- Clean Architecture
-- DDD - Domain Driven Design (Layers and Domain Model Pattern)
-- Domain Events
-- Domain Notification
-- Domain Validations
-- CQRS (Imediate Consistency)
-- Retry Pattern
-- Circuit Breaker
 - Unit of Work
 - Repository
-- Specification Pattern
-- API Gateway / BFF
-
+- Design Pattern Abstract Factory
+  
 ---
 
-### Toda a aplicação é baseada em uma solução única com X API's e uma aplicação web (MVC)
+### Toda a aplicação é baseada em uma solução única com X API's
 
 <p align="center">
     <img alt="read before" src="https://user-images.githubusercontent.com/5068797/161202409-edcf2f38-0714-4de5-927d-1a02be4501ec.png" />
